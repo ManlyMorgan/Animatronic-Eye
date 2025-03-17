@@ -6,13 +6,6 @@
 Eyes Eyes(10,9,3,
           14,6,5);
 
-// 5 - Right Eyelid
-// 3 - Left Eyelid
-// 6 - Right UD
-// 14 - Right LR
-// 9 - Left UD
-// 10 - Left RL
-
 void setup() {
   Serial.begin(9600);
   
