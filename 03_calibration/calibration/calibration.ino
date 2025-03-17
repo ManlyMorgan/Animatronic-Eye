@@ -31,9 +31,6 @@ void setup() {
 
   Serial.println("Enter servo position...");
 
-  servo.startEaseTo(70,speed);
-  servo.startEaseTo(110,speed);
-
 }
  
 void loop() {
